@@ -3,7 +3,7 @@
 Bulk Email Sender Software using multiple gmail account 
 Check software below link
 
-https://bhansalisoft.com/Product.aspx?PID=18
+https://1.envato.market/4egdzr
 
 <h4>What is BULK EMAIL Sender Software ?</h4>
             <hr class="notop">
